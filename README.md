@@ -11,4 +11,6 @@ A passionate Web Developer focused on building clean, interactive, and responsiv
 - 🎯 **I’m currently looking for:** Frontend Developer / Web Developer Internship or Entry-Level positions worldwide.
 - 🌱 **I’m currently expanding my skills in:** TypeScript, React.js ecosystem, Web Performance Optimization.
 - 💬 **Ask me about:** HTML5, CSS3/SASS, JavaScript (ES6+), TypeScript, React, REST APIs, Git workflow, and Responsive Web Design.
+- 🌱 **I’m currently expanding my skills in:** TypeScript, React.js ecosystem and Web Performance Optimization.
+- 💬 **Ask me about:** HTML5, CSS3/SASS, JavaScript (ES6+), React, REST APIs, Git workflow, and Responsive Web Design.
 - ⚡ **Fun fact:** I love turning chaotic API data into smooth, component-driven user interfaces.
